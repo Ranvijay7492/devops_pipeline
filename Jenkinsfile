@@ -9,7 +9,7 @@ stages
     }
   stage('Build the code')
     {
-    step{echo 'Code is building'}
+    step {echo 'Code is building'}
     }
 }
 }
